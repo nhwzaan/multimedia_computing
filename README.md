@@ -1,2 +1,1 @@
-# CS232
-TÍNH TOÁN ĐA PHƯƠNG TIỆN - MULTIMEDIA COMPUTING
+this repo include my labs and my final project for class cs232
